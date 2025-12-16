@@ -149,7 +149,7 @@ Music Service đóng vai trò là **điểm truy cập duy nhất (Entry Point)*
 
 - Tìm kiếm bài hát, album, nghệ sĩ
 - Hỗ trợ full-text search nhanh và chính xác
-- 
+
 ### 🔸 MongoDb
 
 - Chur yếu lưu embedding nhạc phục vụ cho mục đích gợi ý bài nhạc
@@ -164,4 +164,5 @@ Music Service đóng vai trò là **điểm truy cập duy nhất (Entry Point)*
 - **Communication**: REST, gRPC, Protobuf
 - **Authentication**: JWT
 - **Payment**: PayPal
+
 
